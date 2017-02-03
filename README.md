@@ -1,9 +1,18 @@
 # Programming Mobile Apps
 
+###[2017-02-03](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-03/)
+* Reviewed HW answers
+* Created Hello World v2 from textbook
+* Discussed the coordinate system and pixels
+* Discussed colors
+* Discussed objects, parameters, and methods
+* HW: Read pages 21-27
+
 ###[2017-02-01](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-01/)
 * Reviewed HW answers
 * Installed Corona and Sublime
 * Created first app - prints to the debug window
+* HW: Read pages 14-20 and answer questions 1-5 on page 20.
 
 ###2017-01-31
 * Introduction to the course
