@@ -1,6 +1,6 @@
 # Programming Mobile Apps
 
-###[2017-02-06](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-63/)
+###[2017-02-06](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-06/)
 * Reviewed Reading
   * Variables 
     * Local vs Global
