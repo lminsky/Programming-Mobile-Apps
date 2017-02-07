@@ -1,5 +1,26 @@
 # Programming Mobile Apps
 
+###[2017-02-07](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-07/)
+* Reviewed Reading
+  * Functions
+  * Variable Scope
+  * Event Listeners
+  * Buttons
+* Math.random(min, max)
+* DisplayObject
+  * display.newImage
+  * display.newCircle
+  * display.newRect
+  * Object.width & Object.height
+  * Stroke vs Fill
+* Structure of the file
+  * Order matters
+    * First add variables
+    * Then add functions
+    * Then add event listeners and executable code
+* Make a counter
+* HW: Read pages 33-38 and submit your counter app on github
+
 ###[2017-02-06](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-06/)
 * Reviewed Reading
   * Variables 
