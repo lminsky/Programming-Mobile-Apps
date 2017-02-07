@@ -1,6 +1,6 @@
 # Programming Mobile Apps
 
-###[2017-02-07](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-07/)
+###[2017-02-07](Class%20Examples/2017-02-07/)
 * Reviewed Reading
   * Functions
   * Variable Scope
@@ -21,7 +21,7 @@
 * Make a counter
 * HW: Read pages 33-38 and submit your counter app on github
 
-###[2017-02-06](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-06/)
+###[2017-02-06](Class%20Examples/2017-02-06/)
 * Reviewed Reading
   * Variables 
     * Local vs Global
@@ -41,7 +41,7 @@
 * Variable Scope
 * HW: Read pages 28-33
 
-###[2017-02-03](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-03/)
+###[2017-02-03](Class%20Examples/2017-02-03/)
 * Reviewed HW answers
 * Created Hello World v2 from textbook
 * Discussed the coordinate system and pixels
@@ -49,7 +49,7 @@
 * Discussed objects, parameters, and methods
 * HW: Read pages 21-27
 
-###[2017-02-01](https://github.com/lminsky/Programming-Mobile-Apps/tree/master/Class%20Examples/2017-02-01/)
+###[2017-02-01](Class%20Examples/2017-02-01/)
 * Reviewed HW answers
 * Installed Corona and Sublime
 * Created first app - prints to the debug window
