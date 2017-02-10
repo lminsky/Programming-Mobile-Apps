@@ -1,3 +1,5 @@
+display.setDefault("background", 1, 0, 0)
+
 local myButton = display.newImage( "button.png" ) 
 myButton.x = display.contentWidth/2
 myButton.y = display.contentHeight/2

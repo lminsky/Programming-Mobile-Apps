@@ -1,5 +1,14 @@
 # Programming Mobile Apps
 
+###[2017-02-010](Class%20Examples/2017-02-10/)
+* DisplayObject
+  * display.newImage
+  * display.newCircle
+  * display.newRect
+  * Object.width & Object.height
+  * Stroke vs Fill
+* Discussion on number systems (Decimal, Binary, and Hex)
+
 ###[2017-02-07](Class%20Examples/2017-02-07/)
 * Reviewed Reading
   * Functions
