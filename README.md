@@ -1,5 +1,18 @@
 # Programming Mobile Apps
 
+###[2017-02-014](Class%20Examples/2017-02-14/)
+* Review Shapes
+  * display.newRect
+  * display.newCircle
+  * Stroke
+  * Fill
+* Start working on color picker. It should have:
+  * A way to show the color
+  * Ways to change the red, green, and blue components of the color
+  * A text display showing the red, green, and blue values
+* HW: Work on color picker app.
+
+
 ###[2017-02-010](Class%20Examples/2017-02-10/)
 * DisplayObject
   * display.newImage
