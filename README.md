@@ -1,5 +1,12 @@
 # Programming Mobile Apps
 
+###[2017-02-015](Class%20Examples/2017-02-15/)
+* Look at progress of color picker app
+* Introduce boolean logic
+  * ==, !=, <, <=, >=
+  * Conditionals: if(true) then end
+* HW: Complete your color picker app.
+
 ###[2017-02-014](Class%20Examples/2017-02-14/)
 * Review Shapes
   * display.newRect
