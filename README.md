@@ -1,5 +1,22 @@
 # Programming Mobile Apps
 
+###[2017-02-016](Class%20Examples/2017-02-16/)
+* Share color picker apps
+* Continue discussion on conditionals
+  * if then end
+  * if then else end
+  * if then elseif end
+  * if then elseif else end
+  * Nested conditionals
+  * 'and' and 'or' operators
+* Introduce loops
+  * while do end
+  * for do end
+  * repeat until
+  * Nested loops
+  * Infinite loops
+* HW: Read pages 40-47.
+
 ###[2017-02-015](Class%20Examples/2017-02-15/)
 * Look at progress of color picker app
 * Introduce boolean logic
