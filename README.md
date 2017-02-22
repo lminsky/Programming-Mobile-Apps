@@ -1,5 +1,14 @@
 # Programming Mobile Apps
 
+###[2017-02-22](Class%20Examples/2017-02-22/)
+* Review using for loop to create grid
+* Review EventListener Events
+* Working with event.target
+* Create color toggling boxes
+  * Using if...then statements
+  * Using modulo
+
+
 ###[2017-02-016](Class%20Examples/2017-02-16/)
 * Share color picker apps
 * Continue discussion on conditionals
