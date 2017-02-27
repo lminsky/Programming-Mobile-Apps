@@ -1,5 +1,25 @@
 # Programming Mobile Apps
 
+###[2017-02-27](Class%20Examples/2017-02-27/)
+* Review transition.to
+* Introduce Strings
+  * string.len()
+  * string.upper()
+  * string.lower()
+  * string.reverse()
+  * string.find()
+  * string.sub()
+  * string.byte()
+  * string.char()
+
+###[2017-02-23](Class%20Examples/2017-02-23/)
+* Review properties
+* Introduce transition.to(obj, {})
+  * Transition position
+  * Transition alpha
+  * Transition roation
+* Read pages 48-60
+
 ###[2017-02-22](Class%20Examples/2017-02-22/)
 * Review using for loop to create grid
 * Review EventListener Events
