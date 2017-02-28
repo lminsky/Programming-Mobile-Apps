@@ -1,6 +1,28 @@
 # Programming Mobile Apps
 
 ###[2017-02-27](Class%20Examples/2017-02-27/)
+* Review strings
+* Introduce math
+  * math.abs()
+  * math.sin()
+  * math.cos()
+  * math.tan()
+  * math.ceil()
+  * math.floor()
+  * math.round()
+  * math.deg()
+  * math.rad()
+  * math.exp()
+  * math.pow()
+  * math.sqrt()
+  * math.log()
+  * math.log10()
+  * math.pi
+  * math.random()
+  * math.randomseed()
+* HW: Read pages 62-63 and 66-71. Create the program age program described.
+
+###[2017-02-27](Class%20Examples/2017-02-27/)
 * Review transition.to
 * Introduce Strings
   * string.len()
