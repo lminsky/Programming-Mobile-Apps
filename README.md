@@ -20,9 +20,7 @@
   * math.pi
   * math.random()
   * math.randomseed()
-* Review Age App
 * Introduce Arrays
-* HW: Read pages 62-63 and 66-71. Create the program age program described.
 
 ###[2017-02-28](Class%20Examples/2017-02-28/)
 * Review strings
