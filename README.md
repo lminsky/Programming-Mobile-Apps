@@ -1,6 +1,30 @@
 # Programming Mobile Apps
 
-###[2017-02-27](Class%20Examples/2017-02-27/)
+###[2017-03-01](Class%20Examples/2017-03-01/)
+* String escape sequences
+* Continue with math
+  * math.abs()
+  * math.sin()
+  * math.cos()
+  * math.tan()
+  * math.ceil()
+  * math.floor()
+  * math.round()
+  * math.deg()
+  * math.rad()
+  * math.exp()
+  * math.pow()
+  * math.sqrt()
+  * math.log()
+  * math.log10()
+  * math.pi
+  * math.random()
+  * math.randomseed()
+* Review Age App
+* Introduce Arrays
+* HW: Read pages 62-63 and 66-71. Create the program age program described.
+
+###[2017-02-28](Class%20Examples/2017-02-28/)
 * Review strings
 * Introduce math
   * math.abs()
