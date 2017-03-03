@@ -1,5 +1,8 @@
 # Programming Mobile Apps
 
+###[2017-03-03](Class%20Examples/2017-03-03/)
+* Introduce text fields
+
 ###[2017-03-01](Class%20Examples/2017-03-01/)
 * String escape sequences
 * Continue with math
