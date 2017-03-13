@@ -1,5 +1,10 @@
 # Programming Mobile Apps
 
+###[2017-03-13](Class%20Examples/2017-03-13/)
+* Continue working on quiz project
+* Play with photoshop masks
+* Introduce masks in Corona
+
 ###[2017-03-06](Class%20Examples/2017-03-06/)
 * Continue with text fields
 * tonumber()
