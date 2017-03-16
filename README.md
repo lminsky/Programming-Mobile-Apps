@@ -1,5 +1,20 @@
 # Programming Mobile Apps
 
+###[2017-03-15](Class%20Examples/2017-03-15/)
+* Continue with masks
+  * Look at the [reference](https://docs.coronalabs.com/guide/media/imageMask/index.html)
+  * object.maskX
+  * object.maskY
+  * object.maskRotation
+  * object.maskScaleX
+  * object.maskScaleY
+  * Tap masking
+  * Removing masks
+* Image scaling
+  * object:scale()
+* Line appending
+  * object:append(x, y)
+
 ###[2017-03-13](Class%20Examples/2017-03-13/)
 * Continue working on quiz project
 * Play with photoshop masks
