@@ -28,15 +28,15 @@
 * Play with photoshop masks
 * Introduce masks in Corona
 
-###[2017-03-06](Class%20Examples/2017-03-06/)
+### [2017-03-06](Class%20Examples/2017-03-06/)
 * Continue with text fields
 * tonumber()
 * Introduce Quiz project
 
-###[2017-03-03](Class%20Examples/2017-03-03/)
+### [2017-03-03](Class%20Examples/2017-03-03/)
 * Introduce text fields
 
-###[2017-03-01](Class%20Examples/2017-03-01/)
+### [2017-03-01](Class%20Examples/2017-03-01/)
 * String escape sequences
 * Continue with math
   * math.abs()
@@ -58,7 +58,7 @@
   * math.randomseed()
 * Introduce Arrays
 
-###[2017-02-28](Class%20Examples/2017-02-28/)
+### [2017-02-28](Class%20Examples/2017-02-28/)
 * Review strings
 * Introduce math
   * math.abs()
@@ -80,7 +80,7 @@
   * math.randomseed()
 * HW: Read pages 62-63 and 66-71. Create the program age program described.
 
-###[2017-02-27](Class%20Examples/2017-02-27/)
+### [2017-02-27](Class%20Examples/2017-02-27/)
 * Review transition.to
 * Introduce Strings
   * string.len()
@@ -92,7 +92,7 @@
   * string.byte()
   * string.char()
 
-###[2017-02-23](Class%20Examples/2017-02-23/)
+### [2017-02-23](Class%20Examples/2017-02-23/)
 * Review properties
 * Introduce transition.to(obj, {})
   * Transition position
@@ -100,7 +100,7 @@
   * Transition roation
 * Read pages 48-60
 
-###[2017-02-22](Class%20Examples/2017-02-22/)
+### [2017-02-22](Class%20Examples/2017-02-22/)
 * Review using for loop to create grid
 * Review EventListener Events
 * Working with event.target
@@ -109,7 +109,7 @@
   * Using modulo
 
 
-###[2017-02-016](Class%20Examples/2017-02-16/)
+### [2017-02-016](Class%20Examples/2017-02-16/)
 * Share color picker apps
 * Continue discussion on conditionals
   * if then end
@@ -126,14 +126,14 @@
   * Infinite loops
 * HW: Read pages 40-47.
 
-###[2017-02-015](Class%20Examples/2017-02-15/)
+### [2017-02-015](Class%20Examples/2017-02-15/)
 * Look at progress of color picker app
 * Introduce boolean logic
   * ==, !=, <, <=, >=
   * Conditionals: if(true) then end
 * HW: Complete your color picker app.
 
-###[2017-02-014](Class%20Examples/2017-02-14/)
+### [2017-02-014](Class%20Examples/2017-02-14/)
 * Review Shapes
   * display.newRect
   * display.newCircle
@@ -146,7 +146,7 @@
 * HW: Work on color picker app.
 
 
-###[2017-02-010](Class%20Examples/2017-02-10/)
+### [2017-02-010](Class%20Examples/2017-02-10/)
 * DisplayObject
   * display.newImage
   * display.newCircle
@@ -155,7 +155,7 @@
   * Stroke vs Fill
 * Discussion on number systems (Decimal, Binary, and Hex)
 
-###[2017-02-07](Class%20Examples/2017-02-07/)
+### [2017-02-07](Class%20Examples/2017-02-07/)
 * Reviewed Reading
   * Functions
   * Variable Scope
@@ -176,7 +176,7 @@
 * Make a counter
 * HW: Read pages 33-38 and submit your counter app on github
 
-###[2017-02-06](Class%20Examples/2017-02-06/)
+### [2017-02-06](Class%20Examples/2017-02-06/)
 * Reviewed Reading
   * Variables 
     * Local vs Global
@@ -196,7 +196,7 @@
 * Variable Scope
 * HW: Read pages 28-33
 
-###[2017-02-03](Class%20Examples/2017-02-03/)
+### [2017-02-03](Class%20Examples/2017-02-03/)
 * Reviewed HW answers
 * Created Hello World v2 from textbook
 * Discussed the coordinate system and pixels
@@ -204,13 +204,13 @@
 * Discussed objects, parameters, and methods
 * HW: Read pages 21-27
 
-###[2017-02-01](Class%20Examples/2017-02-01/)
+### [2017-02-01](Class%20Examples/2017-02-01/)
 * Reviewed HW answers
 * Installed Corona and Sublime
 * Created first app - prints to the debug window
 * HW: Read pages 14-20 and answer questions 1-5 on page 20.
 
-###2017-01-31
+### 2017-01-31
 * Introduction to the course
 * Reviewed course expectations
 * Discussion on what makes mobile app development different from regular application development
