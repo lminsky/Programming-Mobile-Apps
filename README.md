@@ -1,6 +1,6 @@
 # Programming Mobile Apps
 
-###[2017-03-16](Class%20Examples/2017-03-16/)
+### [2017-03-16](Class%20Examples/2017-03-16/)
 * Continue with masks
   * Button masking
 * Sprites!
@@ -8,7 +8,7 @@
   * Creating sequence data
   * Displaying animations
 
-###[2017-03-15](Class%20Examples/2017-03-15/)
+### [2017-03-15](Class%20Examples/2017-03-15/)
 * Continue with masks
   * Look at the [reference](https://docs.coronalabs.com/guide/media/imageMask/index.html)
   * object.maskX
@@ -23,7 +23,7 @@
 * Line appending
   * object:append(x, y)
 
-###[2017-03-13](Class%20Examples/2017-03-13/)
+### [2017-03-13](Class%20Examples/2017-03-13/)
 * Continue working on quiz project
 * Play with photoshop masks
 * Introduce masks in Corona
