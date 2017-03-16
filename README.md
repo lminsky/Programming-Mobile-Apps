@@ -1,5 +1,13 @@
 # Programming Mobile Apps
 
+###[2017-03-16](Class%20Examples/2017-03-16/)
+* Continue with masks
+  * Button masking
+* Sprites!
+  * Importing sprite sheets
+  * Creating sequence data
+  * Displaying animations
+
 ###[2017-03-15](Class%20Examples/2017-03-15/)
 * Continue with masks
   * Look at the [reference](https://docs.coronalabs.com/guide/media/imageMask/index.html)
