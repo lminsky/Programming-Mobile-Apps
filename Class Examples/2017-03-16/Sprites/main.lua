@@ -13,7 +13,7 @@ local sequenceData =
     name="walking",
     frames = {4, 5, 6, 7, 8, 1, 2, 3},
     time=500,
-    loopCount = 1,   -- Optional ; default is 0 (loop indefinitely)
+    loopCount = 0,   -- Optional ; default is 0 (loop indefinitely)
 }
 
 
@@ -21,8 +21,12 @@ local character = display.newSprite( imageSheet, sequenceData )
 character.x = display.contentWidth/2
 character.y = display.contentHeight/2
 
-function run()
-  character:play()
+function run(event)
+  if event.numTaps == 1 then
+    character:play()
+  else
+    character:pause()
+  end
 end
 
 character:addEventListener("tap", run)
