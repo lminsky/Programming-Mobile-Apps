@@ -1,5 +1,9 @@
 # Programming Mobile Apps
 
+### [2017-04-03](Class%20Examples/2017-04-03/)
+* Sprites!
+  * Make your own sprite animation
+
 ### [2017-03-16](Class%20Examples/2017-03-16/)
 * Continue with masks
   * Button masking
