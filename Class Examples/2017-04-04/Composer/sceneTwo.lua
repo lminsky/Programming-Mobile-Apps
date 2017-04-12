@@ -15,18 +15,27 @@ function scene:create( event )
   byeText.x = display.contentWidth/2
   byeText.y =  display.contentHeight/2
   ByeGroup:insert(byeText)
+  rect1 = display.newRect(100, 100, 100, 100)
+  rect2 = display.newRect(display.contentWidth-200, 100, 100, 100)
+  ByeGroup:insert(rect1)
+  ByeGroup:insert(rect2)
 end
 
-local function onBackgroundTouch()
+local function slideRight()
+    composer.gotoScene( "sceneOne", {effect = "slideRight", time = 400} ) 
+end
+local function slideLeft()
     composer.gotoScene( "sceneOne", {effect = "slideLeft", time = 400} ) 
 end
 
 function scene:show(event)
-    backgroundImage:addEventListener("touch", onBackgroundTouch)
+  rect1:addEventListener("touch", slideLeft)
+  rect2:addEventListener("touch", slideRight)
 end
 
 function scene:hide(event)
-  backgroundImage:removeEventListener("touch", onBackgroundTouch)
+  rect1:removeEventListener("touch", slideLeft)
+  rect2:removeEventListener("touch", slideRight)
 end
 
 -- "create" is called whenever the scene is FIRST called
