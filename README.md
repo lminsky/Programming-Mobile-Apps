@@ -1,5 +1,17 @@
 # Programming Mobile Apps
 
+### [2017-04-25](Class%20Examples/2017-04-25/)
+* Widgets
+  * Button
+  * Slider
+  * Progress Bar
+  * Picker Wheel
+
+### [2017-04-24](Class%20Examples/2017-04-24/)
+* Make a soundboard
+  * audio.loadSound("sound/hp01.wav")
+  * audio.play()
+
 ### [2017-04-04](Class%20Examples/2017-04-04/)
 * Groups
 * Scenes
