@@ -6,9 +6,9 @@ function getZip(event)
     -- end
 
     if(event.status == 200) then    --if the HTTP response has a status code of 200 (OK), proceed
-        -- print(event.response)
-        local response = json.decode(event.response)  -- turn the JSON response into a Lua table
-        print(response.zip_code)      -- Print out the zip code as determined by the response
+        print(event.response)
+        -- local response = json.decode(event.response)  -- turn the JSON response into a Lua table
+        -- print(response.zip_code)      -- Print out the zip code as determined by the response
     end
 end
 
