@@ -16,9 +16,9 @@ function changeColor(event)
 end
 
 function sendColor(event)
-  network.request( "http:192.168.105.9:8000/r/"..(255*redSlider.value/100), "PUT", getResp )
-  network.request( "http:192.168.105.9:8000/g/"..(255*greenSlider.value/100), "PUT", getResp )
-  network.request( "http:192.168.105.9:8000/b/"..(255*blueSlider.value/100), "PUT", getResp )
+  network.request( "http:packer.minsky.co:8000/r/"..(255*redSlider.value/100), "PUT", getResp )
+  network.request( "http:packer.minsky.co:8000/g/"..(255*greenSlider.value/100), "PUT", getResp )
+  network.request( "http:packer.minsky.co:8000/b/"..(255*blueSlider.value/100), "PUT", getResp )
  
 end
 

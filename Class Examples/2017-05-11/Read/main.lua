@@ -34,9 +34,10 @@ else
     	prices[item] = price
     end
 
-    for k,v in pairs(prices) do
-    	print(k,v)
-    end
+    -- for k,v in pairs(prices) do
+    -- 	print(k,v)
+    -- end
+    print(prices["coffee"])
 end
  
 file = nil
