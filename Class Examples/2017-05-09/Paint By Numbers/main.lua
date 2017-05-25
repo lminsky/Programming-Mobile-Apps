@@ -67,28 +67,28 @@ function setBackground(event)
   local body = "key=9378yo4gfhiubjvs98e9m3f8h38vhseiusevmjs9erh"
   local params = {}
   params.body = body
-  network.request( "http://pbn.minsky.co/api/colors/abcdef", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/colors/abcdef", "POST", getResponse, params )
 end
 
 function setMagenta(event)
   local body = "key=9378yo4gfhiubjvs98e9m3f8h38vhseiusevmjs9erh"
   local params = {}
   params.body = body
-  network.request( "http://pbn.minsky.co/api/colors/ff00ff", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/colors/ff00ff", "POST", getResponse, params )
 end
 
 function setYellow(event)
   local body = "key=9378yo4gfhiubjvs98e9m3f8h38vhseiusevmjs9erh"
   local params = {}
   params.body = body
-  network.request( "http://pbn.minsky.co/api/colors/ffff00", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/colors/ffff00", "POST", getResponse, params )
 end
 
 function setWhite(event)
   local body = "key=9378yo4gfhiubjvs98e9m3f8h38vhseiusevmjs9erh"
   local params = {}
   params.body = body
-  network.request( "http://pbn.minsky.co/api/colors/ffffff", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/colors/ffffff", "POST", getResponse, params )
 end
 
 function setSize10(event)
@@ -96,7 +96,7 @@ function setSize10(event)
   local params = {}
   params.body = body
   size = 100
-  network.request( "http://pbn.minsky.co/api/size/10", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/size/10", "POST", getResponse, params )
 end
 
 function setSize15(event)
@@ -104,7 +104,7 @@ function setSize15(event)
   local params = {}
   params.body = body
   size = 225
-  network.request( "http://pbn.minsky.co/api/size/15", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/size/15", "POST", getResponse, params )
 end
 
 function setSize20(event)
@@ -112,7 +112,7 @@ function setSize20(event)
   local params = {}
   params.body = body
   size = 400
-  network.request( "http://pbn.minsky.co/api/size/20", "POST", getResponse, params )
+  network.request( "http://pbn.minsky.co/admin/size/20", "POST", getResponse, params )
 end
 
 buttons[1]:addEventListener("tap", getSize)
